@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_baseline_videogame_asset_24"
+        android:id="@+id/play"
+        android:title="Play"/>
+    <item
+        android:icon="@drawable/ic_baseline_equalizer_24"
+        android:id="@+id/history"
+        android:title="History"/>
+    <item
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:id="@+id/person"
+        android:title="Person"/>
+</menu>

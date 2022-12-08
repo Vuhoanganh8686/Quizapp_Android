@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/white"
+        android:foreground="?attr/selectableItemBackground">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/tvAnswer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3/5"
+                android:textColor="@color/black"
+                android:layout_centerVertical="true"
+                android:textSize="40dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvMon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvAnswer"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:text="Moon"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/tvLevel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvMon"
+                android:layout_alignParentRight="true"
+                android:text="Moon"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/tvDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvLevel"
+                android:layout_alignParentRight="true"
+                android:text="20/10/2020"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "Eo biển Saint George chia đôi hai vùng đất nào?",
+      "answers1": "Anh và Tây Ban Nha",
+      "answers2": "Anh và Ireland",
+      "answers3": "Anh và Pháp",
+      "answers4": "Anh và Bỉ",
+      "correct": "Anh và Ireland"
+    },
+    {
+      "question": "Gibraltar là vùng lãnh thổ hải ngoại do nước nào quản lý?",
+      "answers1": "Vương Quốc Anh",
+      "answers2": "Đức",
+      "answers3": "Tây Ban Nha",
+      "answers4": "Bồ Đào Nha",
+      "correct": "Vương Quốc Anh"
+    },
+    {
+      "question": "Sa mạc cát lớn nhất thế giới là?",
+      "answers1": "Sa mạc Ả - rập (Arabian)",
+      "answers2": "Sa mạc Sahara",
+      "answers3": "Sa mạc Gobi",
+      "answers4": "Sa mạc Kalahari",
+      "correct": "Sa mạc Sahara"
+    },
+    {
+      "question": "Quốc gia duy nhất khu vực Trung Mỹ sử dụng tiếng Anh làm ngôn ngữ chính thức là?",
+      "answers1": "Belize",
+      "answers2": "Costa Rica",
+      "answers3": "Sa mạc Gobi",
+      "answers4": "Panama",
+      "correct": "Belize"
+    },
+    {
+      "question": "Quốc gia rộng nhất thế giới là?",
+      "answers1": "Trung Quốc",
+      "answers2": "Mỹ",
+      "answers3": "Canada",
+      "answers4": "Nga",
+      "correct": "Nga"
+    }
+  ]
+}
